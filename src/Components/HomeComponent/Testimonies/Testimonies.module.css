@@ -1,0 +1,11 @@
+.container{
+    margin-top: 10em !important;
+}
+.cheers_text_layout{
+    width: 311px;
+}
+.cheers_text{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 67px;
+}

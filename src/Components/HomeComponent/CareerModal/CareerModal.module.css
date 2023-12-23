@@ -1,0 +1,49 @@
+.modal{
+    background: #221F4A;
+    height: 100%;
+    max-height: 966px;
+}
+.header_text_layout{
+    width: 410px;
+}
+.header_text{
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 53px;
+    color: #fff;
+}
+.intro_text_layout{
+    width: 500px;
+}
+.intro_text{
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 44px;
+    color: #fff;
+
+}
+.list_layout{
+    width: 580px;
+}
+.list_layout ul{
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 44px;
+    color: #fff;
+}
+
+.learn_button{
+    padding: 10px 50px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    background-color: #fff;
+    border: none;
+}
+.career_bar{
+    width: 100%;
+    max-width: 402px;
+    height: 30px;
+    background-color: #29ACF6;
+    border: 2px solid red;
+}

@@ -1,0 +1,39 @@
+.container{
+    margin: 10rem auto;
+    max-width: 100%;
+    width: 900px;
+}
+/* .header_text_layout{} */
+.top_text{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 57px;
+    text-align: center;
+    color: #B57CD8;
+    padding-bottom: 20px;
+}
+.bottom_text{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 57px;
+    text-align: center;
+}
+.mentor_text{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+    padding-top: 13px;
+}
+.meet_mentor{
+    display: block;
+    width: 300px;
+    margin: 20px auto;
+}
+.meet_mentor_text{
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 33px;
+    text-align: center;
+    text-transform: uppercase;
+
+}

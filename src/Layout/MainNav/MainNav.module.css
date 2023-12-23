@@ -1,0 +1,39 @@
+.navbar{
+    background-color: #fff;
+}
+.navbrand{
+    margin-left: 90px;
+}
+.nav_img{
+    width: 74px !important;
+    height: 50px !important;
+
+}
+.nav_links{
+    margin-right: 150px;
+}
+.link{
+    padding-right: 45px !important;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #041b35;
+}
+
+/* mobile screen */
+@media (max-width:768px) {
+    .navbar{
+        background-color: #041b35 !important;
+    }
+    .navbrand{
+        margin-left: 10px;
+    }
+    .nav_links{
+        margin-left: 10px;
+    }
+    .link{
+        color: #fff !important;
+        
+    }
+
+}

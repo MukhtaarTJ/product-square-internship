@@ -1,0 +1,43 @@
+.container{
+    background-image: url(../../Assets/footer-background-s.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+.form_container{
+    margin: 1rem auto;
+    max-width: 100%;
+    width: 1500px;
+}
+.form_container form {
+    width: fit-content;
+    margin: auto;
+}
+.form_background{ 
+    background-color: #A259CEC9;
+}
+.input_layout{
+    width: 400px;
+    height: 50px;
+    outline: none;
+}
+.sub_btn{
+    padding: 10px 60px;
+    border: none;
+    background-color: #29acf6;
+
+}
+.footer_content{
+    margin: 10rem auto;
+    max-width: 100%;
+    width: 900px;
+}
+.footer_content_items{
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+.footer_content_items ul{
+    list-style-type: none;
+}

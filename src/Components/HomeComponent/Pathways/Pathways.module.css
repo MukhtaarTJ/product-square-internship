@@ -1,0 +1,77 @@
+.container{
+    background: url(../../../Assets/Rectangle\ 27.png) no-repeat;
+    background-size: cover;
+    background-position-x: left;
+    background-position-y: 20em;
+    height: 900px;
+    
+}
+.pathway_container{
+    width: 436px;
+    height: 806px;
+    border-radius: 120px;
+    background-color: #29ACF6F0;
+    margin-right: 20px !important;
+}
+.header_layout{
+    width: 434px;
+}
+.header_text{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    color: #fff;
+    padding-top: 40px;
+}
+.advert_layout{
+    width: 303px;
+    height: 170px;
+    margin: 30px auto;
+}
+.advert_text{
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 27px;
+    color: #fff;
+}
+.advert_list_layout{
+    color: #fff;
+    width: 300px;
+    margin: 20px auto;
+}
+.advert_list_layout li{
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 27px;
+}
+.learn_button_layout{
+    margin: 20px auto;
+    width: 250px;
+}
+.learn_button{
+    padding: 10px 50px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    background-color: #fff;
+    border: none;
+}
+
+/* entrepreneurship conainer */
+.entrepreneurship_container{
+    width: 461px;
+    height: 970px;
+    border-radius: 131px;
+    background-color: #000000;
+}
+.advert_list_entre_layout{
+    color: #fff;
+    width: 350px;
+    margin: 20px auto;
+}
+.advert_list_entre_layout li{
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 27px;
+}

@@ -1,0 +1,103 @@
+.container{
+    background: url(../../../Assets/501K\ WATERMARK.png) no-repeat;
+    background-size: cover;
+    background-position-x: left;
+    background-position-y: -15em;
+    
+}
+.intro_head_text{
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    justify-content: center;
+    line-height: 28px;
+}
+.bistrapay_text{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    justify-content: center;    
+
+}
+
+
+.join_button{
+    padding: 10px 50px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    background-color: #b57cd8;
+    border: none;
+    margin-right: 10px;
+}
+.intro_text_layout{
+    width: 397px;
+    height: 288px;
+}
+.intro_text{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+}
+.bottom_text_layout{
+    width: 395px;
+}
+.bottom_text{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+}
+.career_starter_card{
+    background-color: #0E113D;
+    width: 440px;
+    height: 760px;
+    border-radius: 120px;
+}
+.header_layout{
+    width: 434px;
+}
+.header_text{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    color: #fff;
+    padding-top: 40px;
+}
+.advert_container{
+    width: 100%;
+    margin: 30px auto;
+}
+.advert_layout{
+    width: 303px;
+    height: 170px;
+    margin: 30px auto;
+}
+.advert_text{
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 27px;
+    color: #fff;
+}
+.advert_list_layout{
+    color: #fff;
+    width: 300px;
+    margin: 20px auto;
+}
+.advert_list_layout li{
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 27px;
+}
+.learn_button_layout{
+    margin: 20px auto;
+    width: 250px;
+}
+.learn_button{
+    padding: 10px 50px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    background-color: #fff;
+    border: none;
+}

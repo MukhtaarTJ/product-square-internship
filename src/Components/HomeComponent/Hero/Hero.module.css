@@ -1,0 +1,67 @@
+.hero_container {
+  background-image: url("../../../Assets/BackgroundImage.png");
+  background-size: cover;
+  background-position: center;
+  height: 913px;
+  position: relative !important;
+}
+
+.letter_k {
+  font-weight: 700 !important;
+  font-size: 260px !important;
+  line-height: 400px;
+  width: 170px !important;
+  position: absolute !important;
+  bottom: 190px !important;
+  color: #fff;
+}
+.hero_text_layout {
+  width: 890px;
+}
+.hero_text {
+  font-weight: 600;
+  font-size: 84px;
+  line-height: 120px;
+  color: #fff;
+}
+.advert_text_layout {
+  width: 972px;
+  margin: 90px auto !important;
+}
+.advert_text {
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+}
+.second_advert_layout {
+  width: 984px !important;
+  margin: -80px auto !important;
+}
+
+.second_advert_text {
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: justify;
+}
+
+.apply_section{
+  display: flex;
+  align-items: center;
+  margin: 90px auto !important;
+  width: 500px !important;
+}
+.apply_button{
+  padding: 10px 50px;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 30px;
+  background-color: #b57cd8;
+  border: none;
+  margin-right: 10px;
+}
+.mentor_text{
+  font-weight: 500;
+  font-size: 25px;
+}

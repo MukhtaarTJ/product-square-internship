@@ -1,0 +1,40 @@
+.modal{
+    background-color: #B57CD8BF;
+}
+.learn_button{
+    padding: 10px 50px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    background-color: #fff;
+    border: none;
+}
+.intro_header{
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 50px;
+}
+.intro_advert{
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+}
+.intro_text{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    width: 100%;
+    max-width: 580px;
+}
+.startup_list{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+}
+.startup_bar{
+    width: 430px;
+    height: 32px;
+    border-radius: 32px;
+    background-color: #000000 !important;
+    margin: 0 auto;
+}
